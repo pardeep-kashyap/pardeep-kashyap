@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pardeep Kashyap</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 💬 Ask me about **Angular, React, Node, Express**
+- 💬 Ask me about **React, Angular, Node, Express**
 
 - 📫 How to reach me **pardeepkashyap650@gmail.com**
 
